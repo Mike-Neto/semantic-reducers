@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Mike-Neto/semantic-reducers#readme",
   "devDependencies": {
-    "jest": "^24.9.0",
-    "typescript": "^3.6.3"
+    "jest": "^25.2.3",
+    "typescript": "^3.8.3"
   }
 }
