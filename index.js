@@ -27,4 +27,12 @@ function unique(uniques, value) {
   return uniques;
 }
 
-module.exports = { sum, unique };
+function min(prev, next) {
+  return Math.min(prev, next);
+}
+
+function max(prev, next) {
+  return Math.max(prev, next);
+}
+
+module.exports = { sum, unique, min, max };
